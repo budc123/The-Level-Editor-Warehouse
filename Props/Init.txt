@@ -240,6 +240,7 @@
 [#nm:"Rus2", #tp:"standard", #colorTreatment:"standard", #sz:point(7,9), #repeatL:[1,1,1], #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Rus3", #tp:"standard", #colorTreatment:"standard", #sz:point(7,9), #repeatL:[1,1,1], #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"TM_A02_signprop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[6], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"SerifSign", #tp:"variedStandard", #colorTreatment:"standard", #random:0, #sz:point(4,4), #vars:4, #repeatL:[2,2,4], #tags:["effectColorA"], #layerExceptions:[], #notes:[]]
 
 -["Stone and Rocks", color(222, 188, 129)]
 [#nm:"Small Brick", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,6], #tags:[], #layerExceptions:[], #notes:[]]
@@ -283,6 +284,14 @@
 [#nm:"Cog1_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog2_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog3_8x16x12", #tp:"standard", #colorTreatment:"standard", #sz:point(16,12), #repeatL:[1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+
+-["Mixed Metal", color(0, 255, 0)]
+[#nm:"SSLeg Pipe", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,1,7], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"SSLeg Pipe Gridsnap", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1,1,7], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"VLB Screw", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"VLC Screw", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Retro Antenna", #tp:"standard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Retro Antenna Gridsnap", #tp:"standard", #colorTreatment:"standard", #sz:point(4,4), #repeatL:[1,1], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
 
 -["Gizmos", color(80, 255, 80)]
 [#nm:"Gate Frame", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,7), #repeatL:[2], #tags:[], #layerExceptions:[], #notes:[]]
