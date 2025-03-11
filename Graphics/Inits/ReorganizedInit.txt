@@ -988,7 +988,6 @@
 [#nm:"Cooler NSB", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler NSA", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler NSE", #sz:point(2,2), #specs:[1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"Cooler SSW", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler SSB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler SSA", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -997,7 +996,6 @@
 [#nm:"Cooler SNB", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler SNA", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler SNE", #sz:point(2,2), #specs:[1,1,2,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"Cooler Hole NN", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler Hole", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler Hole NS", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -2835,12 +2833,10 @@ nm:"Huge Tank Alt", #sz:point(13,3), #specs:[3,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 [#nm:"Bordered Big Inside Pipe Horizontal B", #sz:point(1,5), #specs:[1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe Vertical A", #sz:point(5,1), #specs:[1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe Vertical B", #sz:point(5,1), #specs:[1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"Bordered Big Inside Pipe LU", #sz:point(5,5), #specs:[1, 0, 0, 0, 1,     0, 0, 0, 0, 1,    0, 0, 0, 0, 1,    0, 0, 0, 3, 1,    1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe RU", #sz:point(5,5), #specs:[1, 1, 1, 1, 1,     0, 0, 0, 2, 1,    0, 0, 0, 0, 1,    0, 0, 0, 0, 1,    1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe RD", #sz:point(5,5), #specs:[1, 1, 1, 1, 1,     1, 4, 0, 0, 0,    1, 0, 0, 0, 0,    1, 0, 0, 0, 0,    1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe LD", #sz:point(5,5), #specs:[1, 0, 0, 0, 1,     1, 0, 0, 0, 0,    1, 0, 0, 0, 0,    1, 5, 0, 0, 0,    1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"Bordered Big Inside Pipe TJunct E", #sz:point(5,5), #specs:[1, 0, 0, 0, 1,     0, 0, 0, 0, 0,    0, 0, 0, 0, 0,    0, 0, 0, 0, 0,    1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe TJunct N", #sz:point(5,5), #specs:[1, 0, 0, 0, 1,     1, 0, 0, 0, 0,    1, 0, 0, 0, 0,    1, 0, 0, 0, 0,    1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Bordered Big Inside Pipe TJunct W", #sz:point(5,5), #specs:[1, 1, 1, 1, 1,     0, 0, 0, 0, 0,    0, 0, 0, 0, 0,    0, 0, 0, 0, 0,    1, 0, 0, 0, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

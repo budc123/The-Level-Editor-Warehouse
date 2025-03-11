@@ -7,6 +7,10 @@
 [#nm:"20h4wPlanter", #tp:"standardPlant", #vars: 5, #pxlSz: point(80, 400), #pickColor: 1, #hasGrad: 1, #placeAmt: 3, #szVar: [0.3, 1.4], #rotVar: 3, #strengthAffectVar: 1, #randomFlip: 1, #rootAmt: 4]
 [#nm:"20h4wPlanter_NoTipGrad", #tp:"standardPlant", #vars: 5, #pxlSz: point(80, 400), #pickColor: 1, #hasGrad: 1, #placeAmt: 3, #szVar: [0.3, 1.4], #rotVar: 3, #strengthAffectVar: 1, #randomFlip: 1, #rootAmt: 4]
 [#nm:"planterTest3", #tp:"standardPlant", #vars: 7, #pxlSz: point(40, 80), #pickColor: 1, #hasGrad: 1, #placeAmt: 5, #szVar: [0.9, 1.4], #rotVar: 5, #strengthAffectVar: 1, #randomFlip: 1, #rootAmt: 4]
+[#nm:"Scugplant", #tp:"individual", #vars:5, #pxlSz:point(20,40), #randomFlip:1, #pickColor:0, #hasGrad:0, #szVar:[1, 1], #rootAmt:5]
+[#nm:"Spine Growers", #tp:"grower", #vars:8, #pxlSz:point(15,40), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:60, #segmentRotVar:60, #segmentRotPull:0.60, #segmentMoveAmt:30]
+[#nm:"Lickmaw", #tp:"standardPlant", #vars:8, #pxlSz:point(25,60), #randomFlip:1, #pickColor:1, #hasGrad:1, #placeAmt:6, #szVar:[0.8, 1.2], #strengthAffectSize:1, #rootAmt:6]
+[#nm:"Clingerbulb", #tp:"clinger", #vars:10, #pxlSz:point(20,60), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:20, #segmentRotVar:10, #segmentRotPull:0.40, #segmentMoveAmt:1, #tipVars:2, #tipGraf:"clingbulb", #tipPxlSz:point(50,50), #tipMoveAmt:2]
 
 -Ludos Melts
 [#nm: "SlimeStreaks", #tp:"texture", #vars:120, #pxlSz:point(2, 40), #placeAmt:20, #strengthAffectVar:0, #pickColor:0, #hasGrad:0, #randomFlip:0, #bleed:9, #clrMask:7, #affectOpenAreas:0.5, #requireSolid:1]
