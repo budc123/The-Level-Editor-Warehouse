@@ -2154,7 +2154,7 @@
 [#nm:"Wall Fan", #sz:point(2,2), #specs:[0,0 ,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Raidiator Pipe", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,4,2,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"AC Unit 2", #sz:point(3,3), #specs:[1,1,1 ,1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,6,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["fanBlade"]]
-[#nm:"AC Unit", #sz:point(3,2), #specs:[1,1 ,1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"AC_Unit", #sz:point(3,2), #specs:[1,1 ,1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
 [#nm:"Small Fan", #sz:point(2,2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,2,1,2,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Electrical Meter", #sz:point(2,4), #specs:[0,1,0,0 ,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,1,1,3], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
@@ -3108,6 +3108,8 @@
 [#nm:"bg medium shelter W", #sz:point(7,7), #specs:[1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 8, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"bg medium shelter S", #sz:point(7,7), #specs:[1,1,1,1,1,1,1, 1,0,0,0,0,0,0, 1,0,0,0,0,0,0, 1,0,0,0,0,0,0, 1,0,0,0,0,0,0, 1,0,0,0,0,0,0, 1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 8, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"bg medium shelter E", #sz:point(7,7), #specs:[1,1,1,1,1,1,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1, 1,0,0,0,0,0,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 8, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"shelter gate E broken", #sz:point(5,5), #specs:[1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1], #specs2:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 1, 1, 2, 2, 4, 5], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"shelter gate W broken", #sz:point(5,5), #specs:[1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1, 1,1,0,1,1], #specs2:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 1, 1, 2, 2, 4, 5], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Shelter Segment N", #sz:point(1,1), #specs:[1], #specs2:[1], #tp:"voxelStruct", #repeatL:[1,1,18], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Shelter Segment S", #sz:point(1,1), #specs:[1], #specs2:[1], #tp:"voxelStruct", #repeatL:[1,1,18], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Shelter Segment E", #sz:point(1,1), #specs:[1], #specs2:[1], #tp:"voxelStruct", #repeatL:[1,1,18], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
