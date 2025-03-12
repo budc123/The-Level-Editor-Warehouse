@@ -1,4 +1,4 @@
--Plants
+-Modded Plants
 [#nm:"Saprod Growers", #tp:"grower", #vars:10, #pxlSz:point(20, 48), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:10, #segmentRotVar:80, #segmentRotPull:0.25, #segmentMoveAmt:29, #effectFadeOut:0.75, #szChange:[1.0, 2.0, 0.2], #tipGraf:"Saprod Growers Tip", #tipVars:10, #tipPxlSz: point(60, 60), #tipMoveAmt:6]
 [#nm:"planterTest1", #tp:"standardPlant", #vars: 8, #pxlSz: point(64, 90), #pickColor: 1, #hasGrad: 1, #placeAmt: 3, #szVar: [0.2, 1.4], #rotVar: 8, #strengthAffectSize: 0, #randomFlip: 1, #rootAmt: 3]
 [#nm:"thornArch", #tp:"individual", #vars: 6, #pxlSz: point(190, 220), #pickColor: 1, #hasGrad: 1, #randomFlip: 1, #szVar: [0.7, 1.4], #rotVar: 12, #rootAmt: 4]
