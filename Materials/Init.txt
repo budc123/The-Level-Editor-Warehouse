@@ -27,6 +27,7 @@
 [#nm:"BricksDestroyed", #color:color(120, 60, 5), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,2,2,2], #tags:[]]]
 [#nm:"BricksDestroyedNoBG", #color:color(120, 60, 5), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,2,4], #tags:[]]]
 [#nm:"MetalHoles", #color:color(210, 200, 240), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1,1), #repeatL:[1,4,1,4], #tags:[]]]
+[#nm:"SlateCovering", #color:color(205, 189, 87), #block:[#repeatL:[10], #rnd:1, #tags:[]], #slope:[#repeatL:[10], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(1, 1), #repeatL:[1, 1, 8], #tags:[]]]
 
 -Mer's Materials
 [#nm:"WeirdConcreate", #color:color(66, 245, 215), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(13, 13), #repeatL:[1,5], #tags:[]]]
