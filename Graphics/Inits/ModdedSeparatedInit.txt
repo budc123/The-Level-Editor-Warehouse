@@ -1,3 +1,4 @@
+This Init is outdated
 -["Stone", color(210, 180, 180)]
 [#nm:"Small Stone", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Square Stone", #sz:point(2,2), #specs:[1, 1, 1, 1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
