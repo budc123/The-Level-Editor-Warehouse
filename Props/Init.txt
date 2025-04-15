@@ -299,6 +299,8 @@
 [#nm:"Cog1_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog2_6x12x12", #tp:"standard", #colorTreatment:"standard", #sz:point(12,12), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Cog3_8x16x12", #tp:"standard", #colorTreatment:"standard", #sz:point(16,12), #repeatL:[1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Giant Cog", #tp:"standard", #colorTreatment:"standard", #sz:point(15,15), #repeatL:[3, 5, 3], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Giant Cog Broken", #tp:"standard", #colorTreatment:"standard", #sz:point(15,15), #repeatL:[3, 5, 3], #tags:[], #layerExceptions:[], #notes:[]]
 
 -["Mixed Metal", color(0, 255, 0)]
 [#nm:"SSLeg Pipe", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,1,7], #tags:[], #layerExceptions:[], #notes:[]]
@@ -394,6 +396,8 @@
 [#nm:"Billboard", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2,5), #repeatL:[1,2], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Braids Tile Prop", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1], #vars:6, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Pylon_9x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(9,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Chain Holder Disc", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[2,2], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"VLO Screw", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
 
 -["Shelter Backing Pattern Segments", color(40, 0, 255)]
 [#nm:"SP V", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[10], #tags:[], #layerExceptions:[], #notes:[]]
