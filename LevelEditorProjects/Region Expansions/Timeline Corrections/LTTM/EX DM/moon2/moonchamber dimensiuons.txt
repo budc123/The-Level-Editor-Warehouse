@@ -1,0 +1,18 @@
+size
+tl	0	0
+tr	171	0
+bl	0	233
+br	171	233
+
+bounds
+tl	12	3
+tr	159	3
+bl	12	228
+br	159	228
+
+pipes
+left	14	80
+bottom	90	225
+top	82	8
+right	106	17
+chamber	82	70
