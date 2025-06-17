@@ -1,6 +1,3 @@
--["Drip Goku", color(80, 255, 80)]
-[#nm:"DripGoku", #tp:"standard", #colorTreatment:"standard", #sz:point(27,45), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:["He's to powerful he gets his own category"]] 
-
 -["Destruction", color(80, 255, 80)]
 [#nm:"Destruction1", #tp:"antimatter", #depth:8, #contourExp:1.5, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
 [#nm:"Destruction2", #tp:"antimatter", #depth:5, #contourExp:1.2, #tags:["randomRotat", "randomFlipX", "randomFlipY"], #notes:[]]
