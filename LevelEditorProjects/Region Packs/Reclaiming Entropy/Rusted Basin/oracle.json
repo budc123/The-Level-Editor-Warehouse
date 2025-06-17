@@ -1,0 +1,30 @@
+[
+    {
+        "id": "REDeadMoon",
+        "roomId": "RB_LTTM5",
+        "airFriction": 0.01,
+        "annoyedScore": 5,
+        "angryScore": 0,
+        "talkHeight": 6,
+        "pearlFallback": "pebbles",
+	"startPos": {
+            "x": 70,
+            "y": 80
+        },
+        "cornerPositions": [
+                {"x": 60, "y": 75},
+                {"x": 75, "y": 89},
+                {"x": 80, "y": 70},
+                {"x": 50, "y": 60}
+        ],
+        "events": {
+            "generic": [
+                {
+                    "event": "none",
+                    "texts": ["This is custom text for custom slugcats like you <PLAYERNAME>!"],
+                    "action": "general_idle"
+                }
+            ]
+        }
+    }
+]
